@@ -29,9 +29,9 @@
 
 | Name | Quest ID | GitHub |
 | - | - | - |
-| Dutta, Jaxen | [a9dutta](a9dutta@uwaterloo.ca) | [jaxendutta](https://github.com/jaxendutta) |
-| Kang, William | [w9kang](w9kang@uwaterloo.ca) | [william-kang](https://github.com/william-kang) |
-| Mago, Vansh | [vmago](vmago@uwaterloo.ca) | [magovansh9](https://github.com/magovansh9) |
-| Tabouguia, Kevin | [ktabougu](ktabougu@uwaterloo.ca) | [ktabouguia](https://github.com/ktabouguia) |
-| Tao, Frank | [f5tao](f5tao@uwaterloo.ca) | [onyasumi](https://github.com/onyasumi)|
-| Wang, Eric | [e74wang](e74wang@uwaterloo.ca) | [freegamenocomplain](https://github.com/freegamenocomplain) |
+| Dutta, Jaxen | [a9dutta](mailto:a9dutta@uwaterloo.ca) | [jaxendutta](https://github.com/jaxendutta) |
+| Kang, William | [w9kang](mailto:w9kang@uwaterloo.ca) | [william-kang](https://github.com/william-kang) |
+| Mago, Vansh | [vmago](mailto:vmago@uwaterloo.ca) | [magovansh9](https://github.com/magovansh9) |
+| Tabouguia, Kevin | [ktabougu](mailto:ktabougu@uwaterloo.ca) | [ktabouguia](https://github.com/ktabouguia) |
+| Tao, Frank | [f5tao](mailto:f5tao@uwaterloo.ca) | [onyasumi](https://github.com/onyasumi)|
+| Wang, Eric | [e74wang](mailto:e74wang@uwaterloo.ca) | [freegamenocomplain](https://github.com/freegamenocomplain) |
