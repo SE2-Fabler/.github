@@ -38,8 +38,10 @@
 
 ## Repos
 
-[Frontend (Android App)](https://github.com/SE2-Fabler/fabler-frontend)
+- [Frontend (Android App)](https://github.com/SE2-Fabler/fabler-frontend)
+- [Backend](https://github.com/SE2-Fabler/fabler-backend)
+- [AI Generation](https://github.com/SE2-Fabler/fabler-ai-generation)
 
-[Backend](https://github.com/SE2-Fabler/fabler-backend)
+## Time Log
 
-[AI Generation](https://github.com/SE2-Fabler/fabler-ai-generation)
+- [Time Log](https://github.com/SE2-Fabler/fabler-frontend/blob/main/timelog.md)
